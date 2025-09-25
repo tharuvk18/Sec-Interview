@@ -2,8 +2,6 @@
 
 GitHub 地址：https://github.com/duckpigdog/Sec-Interview
 
-在线地址：http://113.45.17.227:4000
-
 上万道安全面试题已经全部为您划分好，适用于网络安全所有岗位！！！
 
 HR：请问…………
@@ -34,11 +32,13 @@ HR：请问…………
 - [r3kapig](https://r3kapig.com/)
 - [神农安全](https://forum.butian.net/people/29988)
 - [狗窝](https://src.sjtu.edu.cn/profile/team/79/)
-- [棉花糖](https://mp.weixin.qq.com/s/xGhaTMw50fxoRzgUep15OQ)
+- [棉花糖](https://vip.bdziyi.com)
 - [phith0n](https://www.leavesongs.com/)
 - [湘安无事](https://mp.weixin.qq.com/s/9rTTRHy21kNPKCsoIshmAA)
 - [Lopt](https://github.com/Loptsecurity)
-- YaYaLiou 网安
+- [YaYaLiou 网安](https://www.yuque.com/yayaliou/efr8d4/gmbgyxy16urr665z?singleDoc#)
+- [zero](https://forum.butian.net/people/25569)
+- **星盟安全-namename123**
 
 添加友链请加上方微信
 
